@@ -1,6 +1,6 @@
 # meta
 
-This repository is created for the sake of orgasing and managing non-code 
+This repository is created for the sake of organising and managing non-code 
 activities like online gaming plans, dev-sprints, etc.
 
 ## Contact:
